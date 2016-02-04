@@ -1,0 +1,4 @@
+vibrant.js
+1.rgbaster.js
+2.每个像素点提取rgb值
+3.http://js8.in/2013/01/02/html5-canvas-%E5%9B%BE%E7%89%87%E5%83%8F%E7%B4%A0/
